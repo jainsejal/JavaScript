@@ -11,5 +11,5 @@ function bmiCalculator (weight, height){
     }
     return interpretation;
 }
-var bmi = bmiCalculator(65, 1.8);
-console.log(bmi)
+bmiCalculator(65, 1.8);
+
